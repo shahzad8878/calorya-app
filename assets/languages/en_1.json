@@ -1,0 +1,11 @@
+{
+  "app_name": "Calorya",
+  "tagline": "Eat Smart. Scan Anything.",
+  "get_started": "Get Started",
+  "continue": "Continue",
+  "goal_title": "What's your goal?",
+  "lose_weight": "Lose Weight",
+  "daily_target": "Your daily target: {cal} kcal",
+  "search_food": "Search biryani, roti...",
+  "choose_language": "Choose Your Language"
+}
